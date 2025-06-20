@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "title": "The Whispering Forest",
+  "author": {
+    "first_name": "Emily",
+    "last_name": "Hawthorne"
+  },
+  "page_number": 384,
+  "images": {
+    "img_thumb": "https://example.com/images/whispering_forest_thumb.jpg",
+    "img_medium": "https://example.com/images/whispering_forest_medium.jpg",
+    "img_large": "https://example.com/images/whispering_forest_large.jpg"
+  },
+  "genres": ["Fantasy", "Adventure"]
+}
