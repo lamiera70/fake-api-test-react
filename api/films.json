@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "title": "Lo squalo",
+    "director": {
+      "first_name": "Steven",
+      "last_name": "Spielberg"
+    },
+    "year": 1975,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/1001000903.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2006/07/023/locandina.jpg"
+    },
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Titanic",
+    "director": {
+      "first_name": "James",
+      "last_name": "Cameron"
+    },
+    "year": 1997,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/38/10003840.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2008/01/027/locandina.jpg"
+    },
+    "genres": [
+      "Romantico",
+      "Drammatico"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Il Padrino",
+    "director": {
+      "first_name": "Francis",
+      "last_name": "Coppola"
+    },
+    "year": 1972,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/38/10003829.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2006/08/029/locandina.jpg"
+    },
+    "genres": [
+      "Crimine",
+      "Drammatico"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "director": {
+      "first_name": "Christopher",
+      "last_name": "Nolan"
+    },
+    "year": 2010,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/64/10064593.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2010/07/069/locandina.jpg"
+    },
+    "genres": [
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Il Signore degli Anelli: La Compagnia dell'Anello",
+    "director": {
+      "first_name": "Peter",
+      "last_name": "Jackson"
+    },
+    "year": 2001,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/08/10008527.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2004/01/054/locandina.jpg"
+    },
+    "genres": [
+      "Fantasy",
+      "Avventura"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "director": {
+      "first_name": "Robert",
+      "last_name": "Zemeckis"
+    },
+    "year": 1994,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/38/10003834.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2004/02/095/locandina.jpg"
+    },
+    "genres": [
+      "Drammatico",
+      "Romantico"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Star Wars: Episodio IV - Una Nuova Speranza",
+    "director": {
+      "first_name": "George",
+      "last_name": "Lucas"
+    },
+    "year": 1977,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/08/10008616.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2008/04/078/locandina.jpg"
+    },
+    "genres": [
+      "Fantascienza",
+      "Avventura"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Pulp Fiction",
+    "director": {
+      "first_name": "Quentin",
+      "last_name": "Tarantino"
+    },
+    "year": 1994,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/08/10008412.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2006/08/039/locandina.jpg"
+    },
+    "genres": [
+      "Crimine",
+      "Drammatico"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Avatar",
+    "director": {
+      "first_name": "James",
+      "last_name": "Cameron"
+    },
+    "year": 2009,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/64/10064103.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2010/01/051/locandina.jpg"
+    },
+    "genres": [
+      "Fantascienza",
+      "Avventura"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "The Dark Knight",
+    "director": {
+      "first_name": "Christopher",
+      "last_name": "Nolan"
+    },
+    "year": 2008,
+    "images": {
+      "img_thumb": "https://pad.mymovies.it/filmclub/sacwebphoto/100/63/10063691.jpg",
+      "img_large": "https://pad.mymovies.it/filmclub/2008/07/070/locandina.jpg"
+    },
+    "genres": [
+      "Azione",
+      "Crimine"
+    ]
+  }
+]
